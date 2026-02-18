@@ -8,3 +8,5 @@ then paste this shi in da KONSOLE!!!!!
 >"qwen3:4b-thinking-2507-q4_K_M"
 
 *GOOD BOI.*
+
+ah forgot to mention. clone it in: PS C:\QR> 
