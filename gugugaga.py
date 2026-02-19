@@ -21,7 +21,7 @@ model = "qwen3:4b-thinking-2507-q4_K_M"
 
 think_level = "high"
 num_ctx = 4000
-num_predict = 3000
+num_predict = 3500
 
 
 USE_CLOUD = False
